@@ -1,2 +1,14 @@
-# FULL-STACK-GUIDE-WEBSITE
-this is the website codes given to us by the mentors came in the date (30/08/2025), so that we could run this code and learn anytime.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
